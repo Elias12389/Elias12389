@@ -1,10 +1,12 @@
-## Hi there 👋
+## Elias Marcelino Alves
 
 Sou um desenvolvedor Front-end em formação.
 
 Redes de contato:
 GitHub: https://github.com/Elias12389 
+
 LinkedIn: https://br.linkedin.com/in/elias-marcelino-alves
+
 Gmail: eliasalveees@gmail.com
 
 <!--
