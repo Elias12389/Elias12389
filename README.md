@@ -1,4 +1,4 @@
-<h1 style="margin:auto;"> Elias Marcelino Alves </h1>
+<h1> Elias Marcelino Alves </h1>
 
 Sou um desenvolvedor Front-end em formação.
 
