@@ -2,16 +2,14 @@
 
 Sou um desenvolvedor Front-end em formação.
 
-Redes de contato:
-GitHub: https://github.com/Elias12389 
-
+Contato:
 LinkedIn: https://br.linkedin.com/in/elias-marcelino-alves
 
 Gmail: eliasalveees@gmail.com
 
 <!--
 **Elias12389/Elias12389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+GitHub: https://github.com/Elias12389 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
