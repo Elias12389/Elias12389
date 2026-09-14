@@ -6,7 +6,7 @@
 
 # Sobre mim
 
-Estudante de Desenvolvimento de Software Multiplataforma (DSM) na Fatec Franco da Rocha e técnico em Desenvolvimento de Sistemas pela ETEC Paulistano.
+Estudante de Desenvolvimento de Software Multiplataforma (DSM) na Fatec Franco da Rocha e técnico em Desenvolvimento de Sistemas pela Etec Paulistano.
 
 Atualmente, estou aprofundando meus conhecimentos em JavaScript, React e Tailwind CSS, com interesse em continuar evoluindo no desenvolvimento Back-end.
 
