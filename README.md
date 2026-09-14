@@ -4,20 +4,17 @@
   Desenvolvedor Front-end em formação
 </p>
 
-###Sobre mim
+# Sobre mim
 
-Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na Fatec Franco da Rocha e técnico em **Desenvolvimento de Sistemas** pela ETEC Paulistano.
+Estudante de Desenvolvimento de Software Multiplataforma (DSM) na Fatec Franco da Rocha e técnico em Desenvolvimento de Sistemas pela ETEC Paulistano.
 
-Atualmente, estou aprofundando meus conhecimentos em **JavaScript, React e Tailwind CSS**, com interesse em seguir evoluindo também no desenvolvimento Back-end.
+Atualmente, estou aprofundando meus conhecimentos em JavaScript, React e Tailwind CSS, com interesse em continuar evoluindo no desenvolvimento Back-end.
 
-###Projetos
+# Atualmente estudando
 
-* **To-do List** — React + Tailwind CSS
-* **F1 News** — HTML, CSS + Bootstrap
-* **Exercícios JavaScript** — JavaScript
-* **Data Diet** — projeto em equipe, atualmente em reestruturação com React, Tailwind CSS e Node.js
+React • JavaScript • Tailwind CSS • Node.js
 
-###Contato
+# Contato
 
 **LinkedIn:** https://br.linkedin.com/in/elias-marcelino-alves
 **Email:** [eliasalveees@gmail.com](mailto:eliasalveees@gmail.com)
