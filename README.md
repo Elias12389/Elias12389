@@ -1,11 +1,27 @@
-<h1 align="center"> Elias Marcelino Alves </h1>
+<h1 align="center">Elias Marcelino Alves</h1>
 
-Sou um desenvolvedor Front-end em formação.
+<p align="center">
+  Desenvolvedor Front-end em formação
+</p>
 
-Contato:
-LinkedIn: https://br.linkedin.com/in/elias-marcelino-alves
+###Sobre mim
 
-Gmail: eliasalveees@gmail.com
+Estudante de **Desenvolvimento de Software Multiplataforma (DSM)** na Fatec Franco da Rocha e técnico em **Desenvolvimento de Sistemas** pela ETEC Paulistano.
+
+Atualmente, estou aprofundando meus conhecimentos em **JavaScript, React e Tailwind CSS**, com interesse em seguir evoluindo também no desenvolvimento Back-end.
+
+###Projetos
+
+* **To-do List** — React + Tailwind CSS
+* **F1 News** — HTML, CSS + Bootstrap
+* **Exercícios JavaScript** — JavaScript
+* **Data Diet** — projeto em equipe, atualmente em reestruturação com React, Tailwind CSS e Node.js
+
+###Contato
+
+**LinkedIn:** https://br.linkedin.com/in/elias-marcelino-alves
+**Email:** [eliasalveees@gmail.com](mailto:eliasalveees@gmail.com)
+
 
 <!--
 **Elias12389/Elias12389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
