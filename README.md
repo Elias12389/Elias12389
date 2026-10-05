@@ -1,18 +1,18 @@
 <h1 align="center">Elias Marcelino Alves</h1>
 
 <p align="center">
-  Desenvolvedor Front-end
+  Desenvolvedor Web
 </p>
 
 # Sobre mim
 
 Estudante de Desenvolvimento de Software Multiplataforma (DSM) na Fatec Franco da Rocha e técnico em Desenvolvimento de Sistemas pela Etec Paulistano.
 
-Atualmente, estou aprofundando meus conhecimentos em JavaScript, React e Tailwind CSS, com interesse em continuar evoluindo no desenvolvimento Back-end.
+Atualmente, estou aprofundando meus conhecimentos em React e Node.js.
 
 # Atualmente estudando
 
-React • JavaScript • Tailwind CSS • Node.js
+React • JavaScript • Python • Node.js
 
 # Contato
 
