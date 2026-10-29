@@ -1,7 +1,7 @@
 <h1 align="center">Elias Marcelino Alves</h1>
 
 <p align="center">
-  Desenvolvedor Web
+  Desenvolvedor Fullstack
 </p>
 
 # Sobre mim
